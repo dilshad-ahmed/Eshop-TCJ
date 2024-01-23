@@ -1,4 +1,7 @@
-# React + Vite
+🎁✨Enjoy the Free code + Assets, Subsribe our youtube channel to get more. 😍
+
+  - Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
